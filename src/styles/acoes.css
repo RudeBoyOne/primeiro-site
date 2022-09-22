@@ -9,7 +9,7 @@ nav a:hover {
 
 .img-principal {
     padding: 225px 200px;
-    background-image: url("imgs/Foto-PI2.jpg");
+    background-image: url("../imgs/Foto-PI1.jpg");
     background-size: cover;
     background-position: top;
 }
