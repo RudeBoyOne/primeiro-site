@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap');
+
+html * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background-color: #F2EEEB;
+}
+
+.Cabeçalho {
+  height: 80px;
+  padding: 0 60px;
+  margin-bottom: 20px;
+  border-bottom: 3px solid #cccc;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.navBar{
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.containerLinks{
+  display: flex;
+  gap: 60px;
+}
+
+.containerLinks li a{
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+nav ul li a:hover {
+  color: #D94814;
+  border-bottom: 3px solid #D94814;
+}
+
+
+.Rodapé {
+  background-color: #F2811D;
+  padding: 30px;
+  margin-top: 40px;
+  text-align: center;
+  font-size: 26px;
+  font-weight: 400;
+}

@@ -1,0 +1,30 @@
+nav a{
+    text-decoration: none;
+    color: black;
+}
+
+nav a:hover {
+    color: #D94814;
+}
+
+.img-principal {
+    padding: 225px 200px;
+    background-image: url("/src/imgs/Foto-PI4.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.main h1 {
+    border-bottom: 1px solid rgba(184, 184, 184, 0.8);
+}
+
+.main {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin: 300px;
+    margin-top: 60px;
+    margin-bottom: 100px;
+    grid-gap: 40px;
+    text-align: justify;
+    font-weight: 400;
+}
