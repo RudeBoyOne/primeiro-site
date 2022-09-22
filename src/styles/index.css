@@ -1,7 +1,7 @@
 .img-principal {
   width: 1120px;
   height: 362px;
-  background-image: url("/src/imgs/imgIndexPrincipal.jpg");
+  background-image: url("src/img/imgIndexPrincipal.jpg");
   margin: 0 auto;
 }
 

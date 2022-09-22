@@ -9,7 +9,7 @@ nav a:hover {
 
 .img-principal {
     padding: 225px 200px;
-    background-image: url("/src/imgs/Foto-PI2.jpg");
+    background-image: url("src/img/Foto-PI1.jpg");
     background-size: cover;
     background-position: top;
 }
@@ -26,5 +26,6 @@ nav a:hover {
     margin-bottom: 150px;
     grid-gap: 40px;
     text-align: justify;
-    font-weight: 400;
+    font-weight: 500;
+    font-size: large;
 }
